@@ -5,7 +5,7 @@
 </h4>
 </br>
 
-## Exercicio 1
+### Exercicio 1
 
 <details>
 <summary>Exapandir exercício</summary>
@@ -27,4 +27,4 @@
 
 </details>
 
-## Exercicio 2
+### Exercicio 2
