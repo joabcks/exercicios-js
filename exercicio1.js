@@ -11,6 +11,8 @@
 // 6 - Log a frase final da função executada no console.
 
 
+// Resolução de forma discritiva
+
 function livro(nome, ano, autor) {
   const nomeMaior = nome.toUpperCase();
   const totalAnos = 2022 - ano;
@@ -26,4 +28,28 @@ const livroRetorno = livro('O Senhor dos Anéis', 1954, 'J. R. R. Tolkien');
 console.log(livroRetorno.frase);
 
 
+// Resolução de forma otimizada
 
+function livro(nome, ano, autor) {
+  const objeto = {
+    nome: nome.toUpperCase(),
+    totalAnos:  2022 - ano,
+    frase: nome + ' por ' + autor,
+  };
+  return objeto;
+}
+const livroRetorno = livro('O Senhor dos Anéis', 1954, 'J. R. R. Tolkien');
+console.log(livroRetorno.frase);
+
+// Resolução de forma otimizada
+
+function livro(nome, ano, autor) {
+ 
+  return {
+    nome: nome.toUpperCase(),
+    totalAnos:  2022 - ano,
+    frase: nome + ' por ' + autor,
+  };
+}
+const livroRetorno = livro('O Senhor dos Anéis', 1954, 'J. R. R. Tolkien');
+console.log(livroRetorno.frase);
