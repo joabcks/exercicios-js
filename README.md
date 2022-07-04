@@ -1,4 +1,8 @@
 # Lista de exercícios Java Script
+
+<h4 align="center"> 
+	🚧  Exercícios Lógica - Java Script  🚀 Em constante evolução...  🚧
+</h4>
 </br>
 
 ## Exercicio 1
@@ -19,4 +23,4 @@
 
 </details>
 
-
+## Exercicio 2
