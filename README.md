@@ -6,8 +6,11 @@
 </br>
 
 ## Exercicio 1
+
 <details>
 <summary>Exapandir exercício</summary>
+
+[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio1.js)
 
 * 1 - Crie uma função (livro) que possui 3 parâmetros: nome, ano e autor.
 * 2 - No corpo da função:
@@ -20,6 +23,7 @@
   >'O Senhor dos Anéis', 1954, 'J. R. R. Tolkien'
 * 5 - Guarde o retorno da função executada em uma variável.
 * 6 - Log a frase final da função executada no console.
+
 
 </details>
 
