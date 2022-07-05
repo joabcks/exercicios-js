@@ -5,12 +5,12 @@
 </h4>
 </br>
 
-### Exercicio 1
+### Exercicio 1 - Operações básicas JS
 
 <details>
 <summary>Exapandir exercício</summary>
 
-[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio1.js)
+[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_1/exercicio1.js)
 
 * 1 - Crie uma função (livro) que possui 3 parâmetros: nome, ano e autor.
 * 2 - No corpo da função:
@@ -27,4 +27,17 @@
 
 </details>
 
-### Exercicio 2
+### Exercicio 2 - Manipulando o DOM
+
+<details>
+<summary>Exapandir exercício</summary>
+
+[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_2/exercicio2.js)
+
+* 1 - Crie um círculo com uma div de width: 16px, height: 16px e background: #999;
+* 2 - Adicione ao window uma função que ocorre ao "mousemove";
+* 3 - Na função mude as propriedades top e left do círculo com base no mouse.
+* 4 - Você pode usar elemento.style.propriedade para mudar o CSS diretamente.
+
+
+</details>
