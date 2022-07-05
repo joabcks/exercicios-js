@@ -38,8 +38,8 @@ function livro(nome, ano, autor) {
   };
   return objeto;
 }
-const livroRetorno = livro('O Senhor dos Anéis', 1954, 'J. R. R. Tolkien');
-console.log(livroRetorno.frase);
+const livroRetorno1 = livro('O Senhor dos Anéis', 1954, 'J. R. R. Tolkien');
+console.log(livroRetorno1.frase);
 
 // Resolução de forma otimizada
 
@@ -51,5 +51,5 @@ function livro(nome, ano, autor) {
     frase: nome + ' por ' + autor,
   };
 }
-const livroRetorno = livro('O Senhor dos Anéis', 1954, 'J. R. R. Tolkien');
-console.log(livroRetorno.frase);
+const livroRetorno2 = livro('O Senhor dos Anéis', 1954, 'J. R. R. Tolkien');
+console.log(livroRetorno2.frase);
