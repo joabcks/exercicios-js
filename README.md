@@ -12,6 +12,7 @@
 
 [ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_1/exercicio1.js)
 
+
 * 1 - Crie uma função (livro) que possui 3 parâmetros: nome, ano e autor.
 * 2 - No corpo da função:
   * 2.1 - Transforme o nome para letra maiúscula: toUpperCase()
@@ -49,7 +50,7 @@
 <details>
 <summary>Exapandir exercício</summary>
 
-[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_2/exercicio2.js)
+[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_3/exercicio3.js)
 
 * 1 - Crie um botão com nome de Adicionar.
 * 2 - Adicione uma função (somar) ao clique desse botão
@@ -70,7 +71,7 @@
 <details>
 <summary>Exapandir exercício</summary>
 
-[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_2/exercicio2.js)
+[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_4/exercicio4.js)
 
 * 1 - Adicione uma navegação (nav) com 3 links: 
   >./, ./produto.html e ./contato.html
@@ -89,7 +90,7 @@
 <details>
 <summary>Exapandir exercício</summary>
 
-[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_2/exercicio2.js)
+[ ### RESOLUÇÃO ###](https://github.com/joabcks/exercicios-js/blob/main/exercicio_5/exercicio.js)
 
 * 1 - Lista de imagens (li img) e a imagem principal.
 *   1.1 Como selecionar uma lista de itens?
